@@ -1,0 +1,20 @@
+name: mvvm_flite
+description: "A simple MVVM implementation with a service locator for Flutter"
+version: 0.0.1
+homepage: https://www.lpickford.dev
+repository: https://github.com/Contract16/simple-mvvm
+issue_tracker: https://github.com/Contract16/simple-mvvm/issues
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  change_app_package_name: ^1.4.0
